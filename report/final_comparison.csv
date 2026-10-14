@@ -1,0 +1,4 @@
+Model,CV F1,CV AUC,Train-CV AUC gap,Test F1,Test AUC
+Logistic Regression,0.53,0.797,0.031,0.485,0.743
+LDA,0.524,0.8,0.028,0.485,0.727
+QDA,0.469,0.721,0.152,0.471,0.677
